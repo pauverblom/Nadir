@@ -1,6 +1,16 @@
-Unity Project/
-GameData/FreeIva
-GameData/Mk1-4
-GameData/ReStock
-GameData/Squad
-GameData/ModuleManager.*
+**/.DS_Store
+
+
+# =========================================================================
+# Unity Auto-Generated Folders & Files
+# =========================================================================
+[Ll]ibrary/
+[Memory]Captures/
+[Logs]/
+[Tt]emp/
+[Oo]bj/
+[Build]/
+[Builds]/
+[Logs]/
+[Vv]ariants/
+UserSettings/
